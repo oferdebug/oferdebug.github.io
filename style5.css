@@ -25,15 +25,15 @@ h2 {
 
 .btn-lg {
   font-size: 3rem;
-  background-color: #7DF9FF;
+  background-color: #7df9ff;
   margin-inline: 0px;
   display: block;
   color: #ffffff;
 }
 
 .btn-primary {
-  background-color: #7DF9FF;
-  border-color: #7DF9FF;
+  background-color: #7df9ff;
+  border-color: #7df9ff;
   font-weight: 100;
   text-align: center;
   margin: 0 auto;
@@ -62,8 +62,8 @@ h2 {
 }
 
 .btn-primary:hover {
-  background-color: #7DF9FF;
-  border-color: #7DF9FF;
+  background-color: #7df9ff;
+  border-color: #7df9ff;
   border-width: 4px;
   box-align: center;
   margin: 0 auto;
